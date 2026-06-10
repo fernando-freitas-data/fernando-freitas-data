@@ -1,4 +1,3 @@
-Repositório criado. Agora clica em **Edit README** (botão verde no lado direito) e substitui todo o conteúdo pelo texto abaixo:
 
 ```markdown
 <h1 align="center">Olá, sou Fernando Freitas 👋</h1>
