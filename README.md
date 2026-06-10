@@ -51,4 +51,3 @@ portfólio sólido e contribuir com projetos reais de dados.
 </p>
 ```
 
-Cola esse conteúdo, depois role até o final da página e clica em **Commit changes** para salvar. Me manda print do resultado.
