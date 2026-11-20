@@ -9,7 +9,7 @@ Foco em **Back-end, Dados e IA aplicada** · 📍 Fortaleza, CE — Brasil
 
 Antes de programar, eu já criava soluções: desenvolvi sistemas web com ferramentas de IA para resolver problemas reais, como controle financeiro e gestão de empréstimos. Agora estou aprendendo a construir a parte de back-end com **código próprio**, entendendo cada linha.
 
-- 📚 Estudante de **[NOME DO CURSO]** — **[NOME DA FACULDADE]**
+- 📚 Estudante de **Sistemas de Informação** — **Unifametro**
 - 🎯 Objetivo: estágio em desenvolvimento back-end ou dados
 - 🧠 Regra pessoal: não publico código que eu não saiba explicar
 
